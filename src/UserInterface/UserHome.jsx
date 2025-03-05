@@ -51,7 +51,7 @@ const UserHome = () => {
           </ul>
           
           <div className='flex gap-4'>
-            {/* Tilni tanlash dropdown */}
+            
             <div className="relative">
               <button
                 onClick={() => setIsOpen(!isOpen)}
